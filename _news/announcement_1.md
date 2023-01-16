@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-12-01 08:00:00+0530
 inline: true
 ---
 
-A simple inline announcement.
+Started undergraduate degree in Instrumentation Engineering at <a href='http://www.iitkgp.ac.in/'>IIT Kharagpur</a>.

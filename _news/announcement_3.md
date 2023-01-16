@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-04-17 12:00:00+0530
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started work as a Research Intern at the Representation Learning Lab, <a href='https://iisc.ac.in/'>IISc Bangalore</a>.
