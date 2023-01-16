@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Department of Electrical Engineering, <a href='http://www.iitkgp.ac.in/'>IIT Kharagpur</a>
 
